@@ -3,5 +3,8 @@
     "chroma-js": "^3.1.1",
     "emailjs-com": "^3.2.0",
     "react-intersection-observer": "^9.13.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }

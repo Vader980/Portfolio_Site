@@ -43,4 +43,12 @@
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.11"
   }
+
+  {
+    "homepage": "https://Vader980.github.io/Portfolio_Site",
+    "scripts": {
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
+    }
+  }
 }
