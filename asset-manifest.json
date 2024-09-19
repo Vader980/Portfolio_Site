@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio_Site/static/css/main.bb6964f8.css",
-    "main.js": "/Portfolio_Site/static/js/main.65365492.js",
+    "main.css": "/Portfolio_Site/static/css/main.c95844cd.css",
+    "main.js": "/Portfolio_Site/static/js/main.37810c29.js",
     "static/js/453.acca0757.chunk.js": "/Portfolio_Site/static/js/453.acca0757.chunk.js",
     "static/media/DSCN6614.JPG": "/Portfolio_Site/static/media/DSCN6614.3320189f6291ee726ac9.JPG",
     "static/media/discoveryImage.jpg": "/Portfolio_Site/static/media/discoveryImage.3b3228c11fb8ad1cee59.jpg",
@@ -9,12 +9,12 @@
     "static/media/Jimmy Jabs - Zaid.jpg": "/Portfolio_Site/static/media/Jimmy Jabs - Zaid.6e6e0a4901a6ab4595a3.jpg",
     "static/media/Eco.png": "/Portfolio_Site/static/media/Eco.aa7ecaa0c41dbb7344c7.png",
     "index.html": "/Portfolio_Site/index.html",
-    "main.bb6964f8.css.map": "/Portfolio_Site/static/css/main.bb6964f8.css.map",
-    "main.65365492.js.map": "/Portfolio_Site/static/js/main.65365492.js.map",
+    "main.c95844cd.css.map": "/Portfolio_Site/static/css/main.c95844cd.css.map",
+    "main.37810c29.js.map": "/Portfolio_Site/static/js/main.37810c29.js.map",
     "453.acca0757.chunk.js.map": "/Portfolio_Site/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb6964f8.css",
-    "static/js/main.65365492.js"
+    "static/css/main.c95844cd.css",
+    "static/js/main.37810c29.js"
   ]
 }
